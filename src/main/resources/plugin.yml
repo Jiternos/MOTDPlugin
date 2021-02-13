@@ -1,0 +1,4 @@
+name: SimpleMOTD
+version: v1.0
+author: Ji
+main: id.jiternos.pl.MOTDMain
